@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=41&section=header&reversal=false&text=%E2%9C%A6%EF%B8%8E%E2%9C%A7%E2%9C%A6%EF%B8%8E&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=54&stroke=-&animation=blink&desc=%E2%9C%A6%EF%B8%8E&descSize=12&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=50&section=header&reversal=false&text=%E2%9C%A6%EF%B8%8E%E2%9C%A7%E2%9C%A6%EF%B8%8E&fontSize=36&fontColor=FFFFFF&fontAlign=50&fontAlignY=54&stroke=-&animation=blink&desc=%E2%9C%A6%EF%B8%8E&descSize=16&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
@@ -50,6 +50,14 @@
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:rrvne?theme=capoo-2&padding=7&scale=0.9&align=top&pixelated=1&darkmode=1"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=50&section=header&reversal=false&text=%E2%9C%A6%EF%B8%8E%E2%9C%A7%E2%9C%A6%EF%B8%8E&fontSize=36&fontColor=FFFFFF&fontAlign=50&fontAlignY=54&stroke=-&animation=blink&desc=%E2%9C%A6%EF%B8%8E&descSize=16&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
